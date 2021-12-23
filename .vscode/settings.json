@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "sendbit.h": "c"
-    },
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs":"active"
-}
